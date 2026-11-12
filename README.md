@@ -1,7 +1,7 @@
 # Base de conocimiento
 
-[Caja](<Caja/Caja.md>)
+[Caja](Caja/Caja.md)
 
-[Control escolar](<Control escolar/Control escolar.md>)
+[Control escolar](Control%20escolar/Control%20escolar.md)
 
-[Cómo agregar o corregir notas](<CONTRIBUTING.md>)
+[Cómo agregar o corregir notas](CONTRIBUTING.md)

@@ -1,9 +1,9 @@
 # Caja
 
-[Consultas](<Consultas/Consultas.md>)
+[Consultas](Consultas/Consultas.md)
 
-[**Servicios de pago**](<Servicios de pago/Servicios de pago.md>)
+[**Servicios de pago**](Servicios%20de%20pago/Servicios%20de%20pago.md)
 
-[**Aranceles**](<Aranceles/Aranceles.md>)
+[**Aranceles**](Aranceles/Aranceles.md)
 
-[**Preguntas frecuentes**](<Preguntas frecuentes/Preguntas frecuentes.md>)
+[**Preguntas frecuentes**](Preguntas%20frecuentes/Preguntas%20frecuentes.md)

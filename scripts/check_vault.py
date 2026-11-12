@@ -9,8 +9,10 @@ EXCLUDED_DIRS = {".git", ".github", ".obsidian", "_plantillas", "scripts"}
 EXCLUDED_FILES = {"CONTRIBUTING.md"}
 FORBIDDEN_NAME_CHARS = set('¿?|/\\:*"<>#^[]')
 NOTION_ID = re.compile(r"[0-9a-f]{32}")
-LOCAL_LINK = re.compile(r"!?\[[^\]]*\]\((?:<([^>]+)>|(?!https?:|mailto:)(\S+?\.[A-Za-z0-9]+)(?:#[^)\s]*)?)\)")
+LOCAL_LINK = re.compile(r"!?\[[^\]]*\]\((?!https?:|mailto:)(\S+?\.[A-Za-z0-9]+)(?:#[^)\s]*)?\)")
+ANGLE_LINK = re.compile(r"\]\(<[^>]+>\)")
 WIKILINK = re.compile(r"\[\[[^\]]+\]\]")
+LINK_FORMAT_HINT = "usa links Markdown como los genera Obsidian: [texto](Mi%20nota.md)"
 
 
 def find_notes():
@@ -19,12 +21,6 @@ def find_notes():
         if EXCLUDED_DIRS.intersection(relative.parts[:-1]) or str(relative) in EXCLUDED_FILES:
             continue
         yield path
-
-
-def link_target(match):
-    bracketed, encoded = match.groups()
-    raw = bracketed if bracketed else unquote(encoded)
-    return raw.split("#", 1)[0]
 
 
 def name_errors(relative):
@@ -42,16 +38,19 @@ def content_errors(relative, text):
     if not text.startswith("# "):
         errors.append(f"{relative}: la primera línea debe ser el título, con formato '# Título'")
     if WIKILINK.search(text):
-        errors.append(f"{relative}: usa links Markdown [texto](<ruta.md>), no [[wikilinks]]")
+        errors.append(f"{relative}: hay [[wikilinks]]; {LINK_FORMAT_HINT}")
+    if ANGLE_LINK.search(text):
+        errors.append(f"{relative}: hay links con <ruta>; {LINK_FORMAT_HINT}")
     return errors
 
 
 def check_links(path, text, linked):
     errors = []
     for match in LOCAL_LINK.finditer(text):
-        target = (path.parent / link_target(match)).resolve()
+        destination = unquote(match.group(1))
+        target = (path.parent / destination).resolve()
         if not target.is_file():
-            errors.append(f"{path.relative_to(ROOT)}: link roto a '{link_target(match)}'")
+            errors.append(f"{path.relative_to(ROOT)}: link roto a '{destination}'")
             continue
         linked.add(target)
     return errors

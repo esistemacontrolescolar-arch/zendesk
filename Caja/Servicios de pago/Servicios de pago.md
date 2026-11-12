@@ -1,9 +1,9 @@
 # Servicios de pago
 
-[**Colegiatura**](<Colegiatura.md>)
+[**Colegiatura**](Colegiatura.md)
 
-[**Reinscripción**](<Reinscripción.md>)
+[**Reinscripción**](Reinscripción.md)
 
-[**PROT**](<PROT.md>)
+[**PROT**](PROT.md)
 
-[**Constancia de costos**](<Constancia de costos.md>)
+[**Constancia de costos**](Constancia%20de%20costos.md)
