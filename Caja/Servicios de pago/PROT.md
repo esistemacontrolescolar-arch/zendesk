@@ -1,0 +1,9 @@
+# PROT
+
+Cantidad especifica a pagar para proceder con tu trámite del Programa de Titulación.
+
+**Procedimiento:**
+
+1. El área de **Titulación** revisará los **requisitos** para asegurarse de que seas apto para proceder con el trámite.
+2. Recibirás un **correo de confirmación** con la **información detallada** sobre el monto a pagar.
+3. Cuando debas realizar algún pago relacionado con tu **PROT**, este **aparecerá en tu plan de pagos** dentro de tu **Sistema de Gestión Escolar (SIGE)**.
