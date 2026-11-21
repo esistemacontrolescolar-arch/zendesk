@@ -3,12 +3,7 @@
 
 Documento que confirma la acreditación del idioma inglés en la institución.
 
-Se emite en formato general e incluye la siguiente información:
-
-- Nombre del estudiante.
-- Matrícula.
-- Programa que cursa.
-- Nivel del idioma inglés acreditado.
+Se emite en formato general e incluye la siguiente información: Nombre del estudiante, matrícula, programa que cursa y nivel del idioma inglés acreditado.
 
 **Requisitos:**
 
