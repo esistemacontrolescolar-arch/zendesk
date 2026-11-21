@@ -33,3 +33,4 @@ Si solicitas una constancia personalizada, recuerda que el tiempo de entrega ser
 **Tiempo de entrega:** Podrás descargarla inmediatamente una vez completado el procedimiento y acreditado el pago.
 
 **Precio del servicio:** $210.00.
+
