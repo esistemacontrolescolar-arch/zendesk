@@ -3,15 +3,7 @@
 
 Documento que acredita que eres alumno activo de la institución.
 
-Se emite en formato general e incluye la siguiente información:
-
-- Nombre del estudiante.
-- Matrícula.
-- Programa que cursa.
-- Ciclo en el que se encuentra activo.
-- RVOE.
-- Promedio general.
-- Número de cuatrimestres que conforman el plan de estudios.
+Se emite en formato general e incluye la siguiente información: Nombre del estudiante, matrícula, programa que cursa, ciclo en el que se encuentra activo, RVOE, promedio general y número de cuatrimestres que conforman el plan de estudios.
 
 **Requisitos:**
 
