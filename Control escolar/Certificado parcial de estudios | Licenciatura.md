@@ -1,4 +1,4 @@
-# Certificado de estudios parcial | Licenciatura
+# Certificado parcial de estudios | Licenciatura
 
 Este documento oficial acredita que el estudiante ha completado parcialmente un programa académico, indicando los avances obtenidos hasta la fecha.
 
