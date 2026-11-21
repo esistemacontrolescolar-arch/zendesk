@@ -12,6 +12,6 @@
 3. Realiza este trámite para aparecer en las **listas de asistencia**, ser **evaluado** y asegurar una correcta gestión de tus **trámites académicos y administrativos**.
 4. Si no realizas la reinscripción, el sistema limitará tu acceso y privilegios.
 
-¡El trámite es sencillo y te tomará menos de 10 minutos!
-
+<p align=center> ¡El trámite es sencillo y te tomará menos de 10 minutos!</p>  
+ 
 **Precio del servicio:** Dependerá del programa inscrito.
