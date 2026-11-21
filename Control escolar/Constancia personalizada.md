@@ -1,7 +1,9 @@
 
 # Constancia personalizada
 
-Documento oficial que permite acreditar información académica o administrativa del estudiante. A través de la plataforma SIGE puedes solicitar cualquier constancia disponible y personalizar su contenido, indicando los datos que deseas modificar o actualizar.
+**Una vez que hayas seleccionado la constancia de tu interés, selecciona "Sí" en la pregunta "¿Quieres personalizarla?".** Posteriormente, agrega la información que deseas modificar o actualizar en el recuadro de comentarios, ubicado en la parte inferior. Si no proporcionas estos detalles, la constancia se emitirá en el formato general. En caso de requerir algún cambio posterior, deberás realizar una nueva solicitud y efectuar un nuevo pago.
+
+Esta opción está disponible para todas las constancias en tu plataforma SIGE.
 
 **Procedimiento:**
 
@@ -12,7 +14,7 @@ Documento oficial que permite acreditar información académica o administrativa
 5. Selecciona la constancia de tu interés.
 6. En la pregunta **¿Quieres personalizarla?**, selecciona **Sí**.
 7. Agrega la información que deseas modificar o actualizar en el recuadro de comentarios, ubicado en la parte inferior.
-8. Completa tu solicitud y realiza el pago correspondiente.
+8. Sigue los pasos que ahí se te indican
 
 **IMPORTANTE:** Si deseas personalizar tu constancia, es indispensable seleccionar **Sí** en la opción *¿Quieres personalizarla?* y especificar claramente los cambios requeridos en el apartado de comentarios.
 
