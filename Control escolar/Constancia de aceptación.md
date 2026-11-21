@@ -4,10 +4,7 @@
 Documento en donde se indica que has cumplido con los lineamientos necesarios durante el proceso de inscripción y fuiste admitido.
 
 Se emite en formato general e incluye la siguiente información:
-
-- Nombre del estudiante.
-- Programa al que se autorizó el ingreso.
-- RVOE.
+Nombre del estudiante, programa al que se autorizó el ingreso y RVOE.
 
 **Requisitos:**
 
