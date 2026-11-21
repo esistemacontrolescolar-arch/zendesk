@@ -21,7 +21,7 @@ Para realizar tu pago, ingresa al Sistema de Gestión Escolar (SIGE) siguiendo e
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Finanzas**.
 4. Elige la opción **Plan de pago**.
-5. Selecciona el concepto correspondiente a **Certificado de estudios total (Duplicado) | Licenciatura**.
+5. Selecciona el concepto correspondiente
 6. Sigue las indicaciones para realizar el pago.
 
 **Tiempo de entrega:**
