@@ -8,7 +8,7 @@ Documento oficial que permite acreditar información académica o administrativa
 1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx](https://sige.iuv.edu.mx/)
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Control Escolar**.
-4. Ingresa al apartado de **Constancias** o ingresa al siguiente [link](https://sige.iuv.edu.mx/panel/control-escolar/constancias)
+4. Ingresa al apartado de **Constancias**: [https://sige.iuv.edu.mx/panel/control-escolar/constancias](https://sige.iuv.edu.mx/panel/control-escolar/constancias)
 5. Selecciona la constancia de tu interés.
 6. En la pregunta **¿Quieres personalizarla?**, selecciona **Sí**.
 7. Agrega la información que deseas modificar o actualizar en el recuadro de comentarios, ubicado en la parte inferior.
