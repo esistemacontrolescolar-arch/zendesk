@@ -1,6 +1,6 @@
 # Certificado de estudios total (Duplicado) | Maestría federal
 
-Este documento confirma que has completado exitosamente el programa o plan de estudios en su totalidad. Si tienes alguna duda o necesitas ayuda adicional, no dudes en preguntar.
+Este documento confirma que has completado exitosamente el programa o plan de estudios en su totalidad.
 
 **Requisitos:**
 
