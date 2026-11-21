@@ -3,14 +3,7 @@
 
 Documento en el que se confirma que has cursado y aprobado todas las asignaturas que conforman el plan de estudios.
 
-Se emite en formato general e incluye la siguiente información:
-
-- Nombre del estudiante.
-- Programa cursado.
-- RVOE.
-- Periodo.
-- Promedio general.
-- Créditos totales.
+Se emite en formato general e incluye la siguiente información: Nombre del estudiante, programa cursado, RVOE, periodo, promedio general y créditos totales.
 
 **Requisitos:**
 
