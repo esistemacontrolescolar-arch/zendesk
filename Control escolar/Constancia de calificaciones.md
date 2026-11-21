@@ -3,14 +3,7 @@
 
 Documento que enlista las calificaciones obtenidas en cada uno de los ciclos concluidos.
 
-Se emite en formato general e incluye la siguiente información:
-
-- Nombre del estudiante.
-- Matrícula.
-- Grado.
-- Programa que cursa.
-- RVOE.
-- Calificaciones de los periodos acreditados desde el ingreso hasta el último ciclo concluido.
+Se emite en formato general e incluye la siguiente información: Nombre del estudiante, matrícula, grado, programa que cursa, RVOE y calificaciones de los periodos acreditados desde el ingreso hasta el último ciclo concluido.
 
 **Requisitos:**
 
