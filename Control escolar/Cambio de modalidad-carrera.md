@@ -21,7 +21,7 @@ Una vez aceptado el trámite, se te informará vía correo electrónico con la i
 
 Para realizar tu pago, ingresa al Sistema de Gestión Escolar (SIGE) y sigue estos pasos:
 
-1. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Ingresa tu usuario y contraseña.
 3. Da clic en el módulo **Finanzas**.
 4. Elige la opción **Plan de pago**.
