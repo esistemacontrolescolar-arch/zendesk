@@ -32,7 +32,7 @@ Documento oficial que certifica que has acreditado un programa o plan de estudio
 
 Para realizar tu pago, deberás comunicarte con el área de **Caja** para dar seguimiento a tu trámite. Posteriormente, ingresa al Sistema de Gestión Escolar (SIGE) siguiendo estos pasos:
 
-1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Finanzas**.
 4. Elige la opción **Plan de pago - Aranceles**.
