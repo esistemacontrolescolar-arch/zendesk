@@ -4,11 +4,11 @@ Documento en el que se muestran las calificaciones obtenidas en los periodos ant
 
 **Procedimiento:**
 
-1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx](https://sige.iuv.edu.mx)
+1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx/panel/control-escolar/clases](https://sige.iuv.edu.mx/panel/control-escolar/clases)
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Control Escolar**.
 4. Selecciona la opción **Horario**.
-5. Haz clic en el botón **Boleta**
+5. Haz clic en el botón **Boleta**: 
 
 **IMPORTANTE:** Si requieres sello y firma autógrafa, deberás habilitar la casilla *¿Requieres boleta física?*. A continuación, aparecerá una ventana en la que tendrás que dar clic en **Sí** y posteriormente en *Continuar*.
 
