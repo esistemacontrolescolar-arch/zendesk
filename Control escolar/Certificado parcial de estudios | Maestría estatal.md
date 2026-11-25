@@ -31,7 +31,7 @@ Una vez aceptado el trámite, se te informará por el mismo medio al que te comu
 
 Para realizar tu pago debes comunicarte al área de caja para darle seguimiento a tu trámite, posterior a ello, debes ingresar al Sistema de Gestión Escolar (SIGE), siguiendo estos pasos:
 
-4. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+4. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 5. Ingresa tu usuario y contraseña.
 6. Da clic en el módulo **Finanzas**.
 7. Elige la opción **Plan de pago - Aranceles**.
