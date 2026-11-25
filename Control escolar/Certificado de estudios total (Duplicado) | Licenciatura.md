@@ -17,7 +17,7 @@ Documento oficial en el que se declara que el estudiante ha acreditado un progra
 
 Para realizar tu pago, ingresa al Sistema de Gestión Escolar (SIGE) siguiendo estos pasos:
 
-1. Ingresa al portal SIGE: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Ingresa al portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Finanzas**.
 4. Elige la opción **Plan de pago**.
