@@ -10,7 +10,7 @@ Puedes realizar la facturación directamente en el **Sistema de Gestión Escola
 
 **Procedimiento:**
 
-1. Ingresa a **SIGE**: [https://sige.iuv.edu.mx](https://sige.iuv.edu.mx/)
+1. Ingresa a **SIGE**: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Da clic en el **menú Finanzas**.
 3. Selecciona la opción **Plan de pago**.
 4. Dirígete a tu **perfil**, ubicado en la parte inferior izquierda.
