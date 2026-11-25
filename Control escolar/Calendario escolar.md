@@ -4,7 +4,7 @@ Este documento muestra los periodos y las fechas en que serán impartidas tus as
 
 **Procedimiento:**
 
-1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx](https://sige.iuv.edu.mx)
+1. Ingresa a tu portal SIGE: [https://sige.iuv.edu.mx/panel/control-escolar/lista-de-calendarios](https://sige.iuv.edu.mx/panel/control-escolar/lista-de-calendarios)
 2. Introduce tu usuario y contraseña.
 3. Da clic en el módulo **Control Escolar**.
 4. Selecciona la opción **Mi calendario**.
