@@ -4,7 +4,7 @@ Puedes realizar el pago **directamente en tu portal SIGE**.
 
 **Procedimiento:**
 
-1. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/auth/login](https://sige.iuv.edu.mx/auth/login)
+1. Dirígete a tu portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Ingresa tu **usuario** y **contraseña**.
 3. Da clic en la pestaña de **Finanzas**.
 4. Selecciona la opción **Plan de pago**.
