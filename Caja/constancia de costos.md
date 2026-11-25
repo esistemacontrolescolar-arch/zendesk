@@ -2,7 +2,7 @@
 Este documento proporciona información detallada sobre los costos relacionados con el programa que estás cursando. Incluye lo siguiente: Nombre del estudiante, matrícula, grado, programa que cursas, porcentaje de beca asignada, detalle de los costos de reinscripción y colegiaturas para cada ciclo escolar.
 
  
-
+ 
 **Requisitos:**
 
 - No tener **adeudos académicos** ni **administrativos.**
