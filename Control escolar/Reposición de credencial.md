@@ -11,7 +11,7 @@ Este trámite permite solicitar la reposición del plástico de la credencial de
 
 Una vez aceptado el trámite, realiza el pago correspondiente siguiendo estos pasos:
 
-1. Ingresa al portal SIGE: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Ingresa al portal SIGE: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Introduce tu usuario y contraseña.
 3. Dirígete al módulo **Finanzas**.
 4. Elige la opción **Plan de pago**.
