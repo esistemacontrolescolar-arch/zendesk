@@ -12,9 +12,9 @@ Nombre del estudiante, programa al que se autorizó el ingreso y RVOE.
 
 **Procedimiento:**
 
-1. Ingresa al Sistema de Gestión Escolar (SIGE): [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Ingresa al Sistema de Gestión Escolar (SIGE):  [https://sige.iuv.edu.mx/panel/control-escolar/constancias](https://sige.iuv.edu.mx/panel/control-escolar/constancias).
 2. Elige el módulo **Control Escolar**.
-3. Selecciona la opción **Constancias**: [https://sige.iuv.edu.mx/panel/control-escolar/constancias](https://sige.iuv.edu.mx/panel/control-escolar/constancias).
+3. Selecciona la opción **Constancias**
 4. Elige la constancia de tu interés.
 5. Sigue los pasos que ahí se te indican.
 
