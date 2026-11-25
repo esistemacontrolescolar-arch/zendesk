@@ -8,7 +8,7 @@ Este documento proporciona información detallada sobre los costos relacionados 
 
 **Procedimiento:**
 
-1. Ingresa al **Sistema de Gestión Escolar (SIGE)** en: [https://sige.iuv.edu.mx/](https://sige.iuv.edu.mx/)
+1. Ingresa al **Sistema de Gestión Escolar (SIGE)** en: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 2. Elige el módulo de **Control Escolar**.
 3. Selecciona la opción **Constancias**.
 4. Elige la **constancia** de tu interés.
