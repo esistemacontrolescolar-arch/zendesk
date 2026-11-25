@@ -10,7 +10,7 @@ Es muy sencillo, solo sigue estos pasos para acceder a tu portal SIGE y realizar
 **Procedimiento:**
 
 1. **Recibirás un correo** por parte del área de **Control Escolar** con la información sobre el **monto a pagar**.
-2. Dirígete a tu **portal SIGE**: [https://sige.iuv.edu.mx/auth/login](https://sige.iuv.edu.mx/auth/login)
+2. Dirígete a tu **portal SIGE**: [https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos](https://sige.iuv.edu.mx/panel/finanzas/plan-de-pagos)
 3. Ingresa tu **usuario** y **contraseña**.
 4. Da clic en la pestaña de **Finanzas**.
 5. Elige la opción **Plan de pago**.
